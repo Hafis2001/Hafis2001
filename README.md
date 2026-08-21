@@ -29,34 +29,7 @@ I'm a **React Native Developer** passionate about building modern, reliable, and
 
 I focus on turning business requirements and ideas into **production-ready mobile experiences** using React Native, Expo, REST APIs, local storage, and modern mobile development practices.
 
-```javascript
-const hafis = {
-  role: "React Native Developer",
 
-  focus: [
-    "Mobile Application Development",
-    "Frontend Engineering",
-    "React Native Architecture",
-    "REST API Integration",
-    "Offline-First Applications"
-  ],
-
-  currentlyWorkingWith: [
-    "React Native",
-    "Expo",
-    "Expo Router",
-    "JavaScript",
-    "TypeScript",
-    "REST APIs"
-  ],
-
-  interestedIn: [
-    "Scalable Mobile Architecture",
-    "Performance Optimization",
-    "TypeScript",
-    "Backend Development",
-    "Cloud & DevOps"
-  ],
 
   goal: "Build useful software that solves real-world problems 🚀"
 };
